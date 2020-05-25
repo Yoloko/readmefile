@@ -7,6 +7,7 @@
 
  These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+![Animated GIF-downsized](https://user-images.githubusercontent.com/61939292/82846409-ba984800-9eb6-11ea-894f-789009e38613.gif)
 
 
 # prerequisites 
