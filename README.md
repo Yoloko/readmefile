@@ -1,6 +1,6 @@
 ### Project Title 
 
- This application was build to generate a read me from a user input througt the command line. 
+ This application was build to generate a read me from a user input through the command line. 
 
  # Getting Started
  
